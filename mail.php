@@ -34,10 +34,10 @@ $banner = "
       MM                 MM 
       MMmmm           mmmMM 
                                           
- [+] SURVERYON MAIL SPAMMER [+]
- Coded by  : Revan AR
- Team      : IndoSec
- Github    : https://github.com/revan-ar/
+ [+] KONTOLOSO MAIL SPAMMER [+]
+ Coded by  : Kontol Ngatceng
+ Team      : IndoSex
+ Github    : https://github.com/KontolNgatceng/
 ============================================\n";
 sleep(2);
 echo $banner;
